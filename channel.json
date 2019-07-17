@@ -1,0 +1,74 @@
+{
+  "defaultExtraInfo": {
+    "name": "河小象少儿写字课"
+  },
+  "channelInfoList": [
+    {
+      "channel": "xiaomi"
+    },
+    {
+      "channel": "ali"
+    },
+    {
+      "channel": "huawei"
+    },
+    {
+      "channel": "360cn"
+    },
+    {
+      "channel": "yingyongbao"
+    },
+    {
+      "channel": "vivo"
+    },
+    {
+      "channel": "oppo"
+    },
+    {
+      "channel": "samsung",
+      "extraInfo": {
+        "name": "河小象写字平台"
+      }
+    },
+
+    {
+      "channel": "meizu"
+    },
+    {
+      "channel": "sougou"
+    },
+    {
+      "channel": "dangbei"
+    },
+
+    {
+      "channel": "lenovo"
+    },
+    {
+      "channel": "jinli"
+    },
+
+    {
+      "channel": "smartsian"
+    },
+    {
+      "channel": "baidu",
+      "extraInfo": {
+        "name": "河小象"
+      }
+    },
+    {
+      "channel": "toutiao1"
+    },
+    {
+      "channel": "toutiao2"
+    },
+
+    {
+      "channel": "toutiao3"
+    },
+    {
+      "channel": "toutiao4"
+    }
+  ]
+}
